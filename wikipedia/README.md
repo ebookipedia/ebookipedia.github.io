@@ -1,1 +1,1 @@
-Builds an eBookipedia page based on Wikipedia content
+Builds an [eBookipedia](ebookipedia.github.io) page based on Wikipedia content
